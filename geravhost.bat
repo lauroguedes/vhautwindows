@@ -1,3 +1,5 @@
+REM[Desenvolvido por Lauro Guedes - leowgweb.com]
+
 @ECHO OFF
 CLS
 
